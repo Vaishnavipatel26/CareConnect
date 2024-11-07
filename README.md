@@ -2,7 +2,7 @@
 CareConnect application enhances the patient-doctor experience by simplifying appointment management and enabling efficient access to essential information.
 
 Requirements
------------------------------
+----------------------------
 For building and running the application you need:
 
   JDK 1.8
@@ -16,19 +16,19 @@ Open the project folder in your IDE and run it using command on your browser:
 
 http://localhost:8080
 
-CareConnect
-----------------
+# CareConnect
 
-# Login Page
--------------
+
+## Login Page
+
 <img src="./bioMedical/img/1.png" >
 
-# Register Page
--------------
+## Register Page
+
 <img src="./bioMedical/img/2.png" >
 
-## User Panel
---------------
+# User Panel
+
 <img src="./bioMedical/img/3.png" >
 <img src="./bioMedical/img/4.png" >
 <img src="./bioMedical/img/5.png" >
@@ -36,43 +36,43 @@ CareConnect
 <img src="./bioMedical/img/7.png" >
 <img src="./bioMedical/img/8.png" >
 
-# About 
--------
+## About 
+
 <img src="./bioMedical/img/9.png" >
 <img src="./bioMedical/img/10.png" >
 
-# Departments
-----------
+## Departments
+
 <img src="./bioMedical/img/11.png" >
 <img src="./bioMedical/img/12.png" >
 <img src="./bioMedical/img/13.png" >
 
-# Doctors
---------------
+## Doctors
+
 <img src="./bioMedical/img/14.png" >
 <img src="./bioMedical/img/15.png" >
 
-# Blog
------------
+## Blog
+
 <img src="./bioMedical/img/16.png" >
 <img src="./bioMedical/img/17.png" >
 
-# Contact us
----------------
+## Contact us
+
 <img src="./bioMedical/img/18.png" >
 <img src="./bioMedical/img/19.png" >
 
-# Appointment Booking 
----------------------
+## Appointment Booking 
+
 <img src="./bioMedical/img/20.png" >
 
-## Admin Panel
-----------------------
+# Admin Panel
+
 <img src="./bioMedical/img/21.png" >
 <img src="./bioMedical/img/22.png" >
 <img src="./bioMedical/img/23.png" >
 <img src="./bioMedical/img/24.png" >
 
-## Doctor Panel
----------------------
+# Doctor Panel
+
 <img src="./bioMedical/img/25.png" >
